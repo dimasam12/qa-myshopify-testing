@@ -20,8 +20,7 @@ The following features were tested:
 - ✅ Register  
 - ✅ Product Listing  
 - ✅ Add to Cart  
-- ✅ Cart Page  
-- ✅ Checkout (limited - demo)  
+- ✅ Cart Page   
 - ✅ Form Validation (positive & negative cases)  
 
 ---
@@ -29,8 +28,7 @@ The following features were tested:
 ## 🧪 Testing Type
 - Manual Testing  
 - Functional Testing  
-- Positive Testing  
-- Negative Testing  
+- Regreesion Testing   
 
 ---
 
@@ -43,6 +41,3 @@ The following features were tested:
 - Katalon
   
 
----
-
-## 📂 Project Structure
