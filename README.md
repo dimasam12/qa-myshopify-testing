@@ -9,7 +9,6 @@ This project contains testing documentation for an e-commerce website built usin
 - Ensure website functionality works as expected  
 - Identify bugs and system errors  
 - Practice manual testing and test documentation  
-- Build a QA portfolio for entry-level opportunities  
 
 ---
 
