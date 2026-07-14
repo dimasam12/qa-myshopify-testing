@@ -45,4 +45,4 @@ Sistem secara umum cukup stabil dengan pass rate 82.9%, namun terdapat 3 bug den
 
 Terdapat 1 bug dengan severity Medium pada modul Registrasi terkait validasi input nama yang perlu diperbaiki.
 
-Modul Login memiliki 3 bug dengan severity Low yang perlu perbaikan pada pesan error agar lebih informatif, meskipun secara fungsional sudah am
+Modul Login memiliki 3 bug dengan severity Low yang perlu perbaikan pada pesan error agar lebih informatif, meskipun secara fungsional sudah aman
